@@ -16,7 +16,7 @@ This repository contains the complete Unity project, open-sourced for reference 
 
 ## Demo
 
-[![Watch the gameplay demo](https://img.youtube.com/vi/ngsoClk9jGU/maxresdefault.jpg)](https://youtu.be/ngsoClk9jGU)
+[![Watch the gameplay demo](https://img.youtube.com/vi/ngsoClk9jGU/hqdefault.jpg)](https://youtu.be/ngsoClk9jGU)
 
 *Click the thumbnail to watch on YouTube (GitHub doesn't allow videos to autoplay inside a README).*
 
